@@ -1,4 +1,4 @@
-set-ExecutionPolicy -ExecutionPolicy Unrestricted -force
+#set-ExecutionPolicy -ExecutionPolicy Unrestricted -force
 
 
 $sname = 'USER NAME HERE' ;
