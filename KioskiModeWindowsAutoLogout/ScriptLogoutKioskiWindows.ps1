@@ -1,7 +1,7 @@
 #set-ExecutionPolicy -ExecutionPolicy Unrestricted -force
 
 
-$sname = 'USER NAME HERE' ;
+$sname = 'Prova' ;
 
 
 $sessionInfo = query session | Out-String ;
