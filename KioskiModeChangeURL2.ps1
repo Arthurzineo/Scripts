@@ -1,6 +1,6 @@
 $webSite = Read-Host -Prompt "Digite o URL do site"
 
-$user = "UserName"
+$user = "Prova"
 
 $Sid = (Get-LocalUser -Name $user).SID.Value
 
